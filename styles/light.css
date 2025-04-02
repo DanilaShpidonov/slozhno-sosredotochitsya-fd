@@ -14,14 +14,14 @@
 .theme-light .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
   --bg-color: #fff1f7;
-  --logo-color: #FFC2E6;
+  --logo-color: #ffc2e6;
   --accent-color: #ff8dcb;
   --title-color: #353430;
   --title-accent-color: #353430;
   --text-color-secondary: #353430;
   --highlight-bg-color: #ff8dcb;
   --hover-buttom: #32312d66;
-  --hover-link:#353430;
+  --hover-link: #353430;
   --header-bg-img: url(../images/cover-image-light.png);
   --display-decoration: none;
 }
@@ -29,14 +29,14 @@
 @media (prefers-color-scheme: light) {
   :root {
     --bg-color: #fff1f7;
-    --logo-color: #FFC2E6;
+    --logo-color: #ffc2e6;
     --accent-color: #ff8dcb;
     --title-color: #353430;
     --title-accent-color: #353430;
     --text-color-secondary: #353430;
     --highlight-bg-color: #ff8dcb;
     --hover-buttom: #32312d66;
-    --hover-link:#353430;
+    --hover-link: #353430;
     --header-bg-img: url(../images/cover-image-light.png);
     --display-decoration: none;
   }

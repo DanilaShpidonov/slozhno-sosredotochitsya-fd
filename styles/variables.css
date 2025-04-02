@@ -11,8 +11,8 @@
   --text-color-secondary: #f1b2ce;
   --highlight-bg-color: #ff0070;
   --hover-buttom: #ff007066;
-  --hover-link:#F1B2CE;
-  --font-family: 'IBM Plex mono', sans-serif;
+  --hover-link: #f1b2ce;
+  --font-family: "IBM Plex mono", sans-serif;
   --font-size: 18px;
   --text-shadow: 2px 2px 0 var(--accent-color);
   --header-bg-img: url(../images/cover-image-dark.png);
